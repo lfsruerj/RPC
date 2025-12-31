@@ -2,7 +2,6 @@
 
 <h2>Part of the e-foto 2.0 project, aiming to integrate Rational Polynomial Coefficients processing to the e-foto free photogrammetric suite.</h2>
 
-<h2>Source</h2>
 <p>
 Sponsored by Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro
 </p>
@@ -24,3 +23,4 @@ Students: Paulo Vitor Oliveira Vieira (1st year), Giovanna Rocha da Silva Ferrei
  g++ -g -Wall -I ..\includes\Eigen\Eigen -I ..\headers\ -I ..\headers\utils\ .\mainWork.cpp .\utils\RandPerm.cpp -o teste
 
 </p>
+
